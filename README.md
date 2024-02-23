@@ -10,6 +10,7 @@ To get started with this project, follow these steps:
 2. Navigate to the project directory in your terminal.
 3. Run `npm install` to install the necessary dependencies.
 4. After installation, start the project by running `npm start`.
+5. To initiate scraping, make a GET request to the following URL: `http://localhost:3000/scrape`.
 
 ## Note
 
@@ -30,7 +31,7 @@ There is room for improvement in this web scraper. Some potential enhancements i
 - [Puppeteer npm Package](https://www.npmjs.com/package/puppeteer)
 - [MongoDB](https://www.mongodb.com/) (For checking/testing data in the database)
 
-Looking move forward in the hiring process, please feel free to reach out.
+Looking to move forward in the hiring process, please feel free to reach out.
 
 Thank you!
 
