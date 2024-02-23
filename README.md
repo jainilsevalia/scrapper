@@ -31,7 +31,7 @@ There is room for improvement in this web scraper. Some potential enhancements i
 - [Puppeteer npm Package](https://www.npmjs.com/package/puppeteer)
 - [MongoDB](https://www.mongodb.com/) (For checking/testing data in the database)
 
-Looking to move forward in the hiring process, please feel free to reach out.
+## Looking to move forward in the hiring process, please feel free to reach out.
 
 Thank you!
 
