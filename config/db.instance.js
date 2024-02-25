@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 
 async function connectDB() {
     try {
-        await mongoose.connect('mongodb+srv://jainilsev25:KoiiNetwork@scrappeddatalake.2sxnaz8.mongodb.net/?retryWrites=true&w=majority&appName=ScrappedDataLake', {
+        await mongoose.connect('process.env.MONGODB_CONNECTION_URL', {
             useNewUrlParser: true,
             useUnifiedTopology: true,
         });
