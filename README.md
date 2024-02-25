@@ -35,7 +35,5 @@ There is room for improvement in this web scraper. Some potential enhancements i
 
 Thank you!
 
----
 
-**DB Connection URL**: `mongodb+srv://jainilsev25:KoiiNetwork@scrappeddatalake.2sxnaz8.mongodb.net/?retryWrites=true&w=majority&appName=ScrappedDataLake`
 
